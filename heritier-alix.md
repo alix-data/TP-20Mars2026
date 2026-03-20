@@ -1,3 +1,5 @@
-je suis un homme
-elle est une femme
-il est un chat
+Je suis un homme
+Elle est une femme
+Il est un chat
+
+Ce sont des animaux
